@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\Lista1exc3_Myrella_\Lista1exc3_Myrella_\obj\Debug\Lista1exc3_Myrella_.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Lista1exc3_Myrella_\Lista1exc3_Myrella_\obj\Debug\Lista1exc3_Myrella_.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Lista1exc3_Myrella_\Lista1exc3_Myrella_\bin\Debug\Lista1exc3_Myrella_.exe.config
+C:\Users\aluno\source\repos\Lista1exc3_Myrella_\Lista1exc3_Myrella_\bin\Debug\Lista1exc3_Myrella_.exe
+C:\Users\aluno\source\repos\Lista1exc3_Myrella_\Lista1exc3_Myrella_\bin\Debug\Lista1exc3_Myrella_.pdb
+C:\Users\aluno\source\repos\Lista1exc3_Myrella_\Lista1exc3_Myrella_\obj\Debug\Lista1exc3_Myrella_.exe
+C:\Users\aluno\source\repos\Lista1exc3_Myrella_\Lista1exc3_Myrella_\obj\Debug\Lista1exc3_Myrella_.pdb
